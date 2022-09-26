@@ -1,0 +1,7 @@
+[{
+  "schedule":"10 03 * * *",
+  "command":"/bin/bash /home/docker/cert.sh"
+},{
+  "schedule":"20 03 * * *",
+  "command":"/usr/bin/php /home/docker/cert.php"
+}]
