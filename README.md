@@ -29,7 +29,7 @@ Run the docker-compose up command in the same directory.
 Node certificate check time is done once a day.
 Check time is 03:10 UTC time
 
-（日本時間では午後12:10）
+（日本時間では午後00:10）
 
 # Debugging
 
